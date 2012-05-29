@@ -13,7 +13,7 @@ namespace GeeklistSharp.Tests
     ///to contain all GeeklistServiceTest Unit Tests
     ///</summary>
     [TestClass()]
-    public class GeeklistServiceTest
+    public class GeeklistServiceTest : GeeklistBaseTest
     {
 
 
